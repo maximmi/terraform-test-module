@@ -3,5 +3,5 @@ module "example" {
 
   example = var.example
 
-  context = module.this.context
+  context  = module.this.context
 }
