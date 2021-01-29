@@ -7,11 +7,11 @@
 *             @cloudposse/engineering @cloudposse/contributors
 
 # Cloud Posse must review any changes to Makefiles
-**/Makefile   @cloudposse/engineering
-**/Makefile.* @cloudposse/engineering
+**/Makefile   @maximmi
+**/Makefile.* @maximmi
 
 # Cloud Posse must review any changes to GitHub actions
-.github/*     @cloudposse/engineering
+.github/*     @maximmi
 
 # Cloud Posse must review any changes to standard context definition
-**/context.tf   @cloudposse/engineering
+**/context.tf @maximmi
